@@ -1,0 +1,37 @@
+div {
+margin: 2 px;
+border-style: solid;
+border-color: #ff00ff;
+
+}
+#container {
+    width: 1280px;
+height: 800px;
+
+}
+
+#first {
+margin: 4px;
+border: 2px;
+border-style: solid;
+border-color: #0000ff;
+width: 414px;
+height: 784px;
+float: left;
+}
+#third {
+margin: 4px;
+border: 2px;
+border-style: solid;
+border-color: #0000ff;
+width: 414px;
+height: 784px;
+float: right;
+}
+#second {
+height: 784px;
+margin: 4px;
+border: 2px;
+border-style: solid;
+border-color: #0000ff;
+}
